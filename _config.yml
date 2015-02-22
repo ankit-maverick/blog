@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Ankit Maverick
 locale: en_US
 description: A simple and clean responsive Jekyll theme for words and photos.
-logo: site-logo.png
-url: //mmistakes.github.io/so-simple-theme
+logo:
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -31,20 +31,20 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Ankit Agrawal
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  email: aaaagrawal@gmail.com
+  disqus-shortname: aaaagrawal
+  twitter:
+  facebook: aaaagrawal
+  github: ankit-maverick
   stackexchange:
-  linkedin:
-  instagram: mmistakes
+  linkedin: aaaagrawal
+  instagram:
   flickr:
-  tumblr: mademistakes
+  tumblr:
   google:
-    plus: MichaelRoseDesign
+    plus:
     analytics: UA-2011187-2
     verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
     ad-client: ca-pub-7328585512091257
