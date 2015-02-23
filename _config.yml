@@ -32,7 +32,7 @@ comments: true
 # Site owner
 owner:
   name: Ankit Agrawal
-  avatar: michael-rose-photo.jpg
+  avatar:
   email: aaaagrawal@gmail.com
   disqus-shortname: ankitmaverick
   twitter:
