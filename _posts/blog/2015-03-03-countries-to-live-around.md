@@ -6,11 +6,10 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: countriesToLive.svg
+  feature:
 date: 2015-03-03T07:50:00+05:30
 share: true
 ---
-
 
 I want to live around the world by living in different coutries with extended periods of time that is at least 3 to 4 months at minimum. And the countries that I have in mind on top priority before others are Brazil, Russia, Columbia, Mexico, China. 
 
