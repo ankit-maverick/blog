@@ -18,3 +18,4 @@ Now after a while a wolf will come along guided by his sense of smell and find t
 
 Soon he notices something is wrong, he is getting weaker not stronger. Since he knows blood as food he increases his efforts to feed on the ever increasing flow of blood. His last thoughts are of how good the now warm blood tastes. Within minutes he licks his last and collapse next to the now fully exposed knife."
 
+What is your bloody knife?
