@@ -10,7 +10,7 @@ image:
 date: 2015-03-08T12:24:00+05:30
 share: true
 ---
-I found this interesting short story on the internet but could trace the original author.
+I found this interesting short story on the internet but could not trace the original author.
 
 "Up in the arctic circle there is tribe of Eskimo's who have learned to set a very simple yet effective trap for wolves. First they sharpen a knife razor sharp. Then they dip it in the blood of a seal they have killed. (you see seals are fairly easy to trap but wolves are very dangerous). After dipping the knife in blood they set it outside in the cold so the blood freezes on the knife. After if freezes (a matter of minutes) they dip it again into the seal blood and again take it out an let the blood freeze. Layer after layer they make a blood popsicle. When they are done, the knife's blade is hidden inside just like a popsicle stick. Now they take the knife out into the wilderness where they think a wolf might be. There the bury the handle of the knife in the snow leaving the blood popsicle standing up and they leave.
 
